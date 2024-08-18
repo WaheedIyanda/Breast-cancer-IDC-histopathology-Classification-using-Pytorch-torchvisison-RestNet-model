@@ -1,0 +1,2 @@
+# Breast-cancer-IDC-histopathology-Classification-using-Pytorch-torchvisison-RestNet-model
+Breast cancer, the most common cancer among women, often presents as invasive ductal carcinoma (IDC), the most prevalent subtype. The goal of this project was to analyze and process breast cancer images and train a model to accurately identify and categorize various subtypes. Utilizing a ResNet model, the system achieved a notable accuracy of 90%
